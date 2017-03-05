@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/margin_large"
+    android:background="#cfcfcf">
+
+    <RelativeLayout
+        android:id="@+id/activityLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:padding="@dimen/padding_medium">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:text="@string/title_main"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"/>
+
+        <EditText
+            android:id="@+id/activityData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/message"
+            android:hint="@string/hint_message"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/sendMessageToFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/activityData"
+            android:layout_centerHorizontal="true"
+            android:onClick="sendMessageToFragment"
+            android:text="@string/send_message_fragment"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activityLayout"
+        android:layout_marginTop="@dimen/margin_extra_large"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/activityLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:padding="@dimen/padding_medium"
+        android:layout_marginTop="@dimen/margin_extra_large"
+        android:layout_below="@+id/fragmentContainer">
+
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:text="@string/title_main"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/message1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title1"/>
+
+        <EditText
+            android:id="@+id/activityData1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/message1"
+            android:hint="@string/hint_message"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/datafromdb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:onClick="getDataFromDB"
+            android:layout_below="@id/activityData1"
+            android:text="@string/get_data_from_db"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/nextActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Next_activity"
+        android:text="@string/next_acitivity"
+        android:layout_below="@+id/activityLayout1"
+        android:layout_marginTop="@dimen/margin_extra_large" />
+
+</RelativeLayout>

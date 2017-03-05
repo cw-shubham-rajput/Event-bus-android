@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_99cd68e661bff78889a94eb81ce441c0c992d400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a33daae67051bf0c9e35347ba910c5b4e75db032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7c00849a4730bda0d015678311e764eb9c4f2cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ff55098cb4eb06d3cefe2d41289394adf559f45">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e75a52873877d8ec159fc38e6847e9c331c5e981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0884bc6ffb6269a425b3512d97a7db22f131161d">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_04ba13cacab6475353836de69f4ee9c7e5a9b8f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_341dc0f6daebeb56ff338d5cfd40b2930b3a5ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_065fb46bb6edced2ffceedf12587096775ef67a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f81de5ceb893a3906f2391f69dfc1ea980252157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a95e1a7383a935e1bf8bc048d1a02829c5d305b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_fc289e2facba62e51aa84345b04525e20b72ec8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_35dfa05e54bf819e58c0a3f4a683d9bbf69ef374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_79482e348c31b6fe74859d40910541cd5441b13b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3a66c46cba35bc2ce24f686e6817133c43630392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_96cd4d51b75a650b0dc03e1825ba5f8a31a0f7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_64df7b9ee969f2ab3ed5551cc26a6ab0ffca6c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6e6f23597a77f8d7e2165d38d1140523bc813f77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_519b82e7bf196d1713ed839b3e7ca2cd093e0f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\shubh\AndroidStudioProjects\EventBus_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_41ff58d2e0260fc48e6f83dbb504df74c6448f9d\classes.dex" />
+    </item>
+
+</items>
